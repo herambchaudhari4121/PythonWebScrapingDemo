@@ -14,3 +14,10 @@
 
 - `pip install requests`
 - `pip install bs4`
+- `pip install lxml`
+
+# To run the webscraper_demo
+
+```
+python webscraper_demo.py
+```
