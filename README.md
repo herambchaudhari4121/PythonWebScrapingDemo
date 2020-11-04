@@ -42,6 +42,9 @@ Leading to the following important code snippets
 links = soup.find('div', {'class': '_8tk7'}).findAll('a')
 ```
 
+- Using the links, iterate to extract the link text and URL.
+- Place it in a dictionary.
+
 ```
 def get_job_listing(url):
     req = requests.get(url)
@@ -56,6 +59,12 @@ def get_job_listing(url):
         job_details['href'] = link['href']
         print(job_details)
 ```
+
+# Still to work on
+
+- Iterate through the subsequent link
+- Capture the _Minimum Qualifications_
+- Capture the _Preferred Qualifications_
 
 # To run the webscraper_demo
 
