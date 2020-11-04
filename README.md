@@ -60,12 +60,6 @@ def get_job_listing(url):
         print(job_details)
 ```
 
-# Still to work on
-
-- Iterate through the subsequent link
-- Capture the _Minimum Qualifications_
-- Capture the _Preferred Qualifications_
-
 # To run the webscraper_demo
 
 ```
@@ -86,3 +80,9 @@ python webscraper_demo.py
 {'name': 'Manager, Market Operations, Burmese marketDublin, IrelandGlobal OperationsMarket Operations', 'href': '/careers/jobs/1125165764532430/'}
 {'name': 'Manager, Software Engineering, CompilersMenlo Park, CAInfrastructureEngineering', 'href': '/careers/jobs/1147169172318394/'}
 ```
+
+# Still to work on
+
+- Iterate through the subsequent link
+- Capture the _Minimum Qualifications_
+- Capture the _Preferred Qualifications_
