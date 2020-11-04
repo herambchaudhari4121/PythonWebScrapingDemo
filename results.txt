@@ -1,0 +1,26 @@
+25
+{'name': 'Engineering Manager - Malware Analysis InfrastructureMenlo Park, CASoftware EngineeringEngineering', 'href': '/careers/jobs/1035151026857199/'}
+{'name': 'Research Intern, Artificial IntelligenceMontreal, CanadaInternship - PhDArtificial Intelligence', 'href': '/careers/jobs/615554365978704/'}
+{'name': 'Full Stack Software Engineering ManagerLondon, United KingdomSoftware EngineeringEngineering', 'href': '/careers/jobs/2610480139072156/'}
+{'name': 'Manager, HCM IntegrationsAustin, TX +1 moreInfrastructureIT', 'href': '/careers/jobs/200121818028842/'}
+{'name': 'Director, Product Marketing, Workplace London, United KingdomProduct ManagementPartnerships', 'href': '/careers/jobs/295726081470260/'}
+{'name': 'Data Engineer, Analytics (Family Ecosystems)Menlo Park, CA +1 moreData & Analytics+1 moreData Engineering', 'href': '/careers/jobs/3223521017874109/'}
+{'name': 'Communications Manager, Monetization - LatamSão Paulo, BrazilCommunications & Public PolicyCorporate Communications', 'href': '/careers/jobs/1764302053725468/'}
+{'name': 'Research Manager, Business Integrity - Authenticity Menlo Park, CA +1 moreResearchUser Experience', 'href': '/careers/jobs/630632180850801/'}
+{'name': 'Manager, Market Operations, Burmese marketDublin, IrelandGlobal OperationsMarket Operations', 'href': '/careers/jobs/1125165764532430/'}
+{'name': 'Manager, Software Engineering, CompilersMenlo Park, CAInfrastructureEngineering', 'href': '/careers/jobs/1147169172318394/'}
+{'name': 'Data Specialists Manager, Developer OperationsSunnyvale, CAData & Analytics+1 moreAnalytics+1 more', 'href': '/careers/jobs/2586254084974465/'}
+{'name': 'Backbone Production Network Engineering ManagerDublin, IrelandInfrastructureNetwork Engineering', 'href': '/careers/jobs/909277032930480/'}
+{'name': 'Machine Learning Engineer (NLP), Novi CareTel Aviv, IsraelSoftware EngineeringMachine Learning', 'href': '/careers/jobs/439609220330459/'}
+{'name': 'Director, Research ScienceSeattle, WAResearchArtificial Intelligence', 'href': '/careers/jobs/338923947506376/'}
+{'name': 'Motion Designer - InstagramSan Francisco, CACreative+1 moreDesign', 'href': '/careers/jobs/933535373796956/'}
+{'name': 'Technical Program Manager, ElectricalMenlo Park, CAAR/VR+2 moreProgram Management', 'href': '/careers/jobs/525928911441497/'}
+{'name': 'Client Partner, Toronto (STE)Toronto, CanadaSales & MarketingSales', 'href': '/careers/jobs/633669547276047/'}
+{'name': 'Product Management Lead, Messenger KidsMenlo Park, CAProduct ManagementProduct Strategy+1 more', 'href': '/careers/jobs/589710164996455/'}
+{'name': 'Participant Management Program ManagerMenlo Park, CADesign & User Experience+1 moreProgram Management+1 more', 'href': '/careers/jobs/1157616181280718/'}
+{'name': 'Program Manager, PrivacyMenlo Park, CAAR/VRProgram Management', 'href': '/careers/jobs/353290722344245/'}
+{'name': 'Technical Program Manager – Growth Capacity PlanningMenlo Park, CATechnical Program ManagementProgram Management', 'href': '/careers/jobs/2255108897970628/'}
+{'name': 'Core Data Science Intern, Economic Research (PhD)Menlo Park, CA +2 moreInternship - PhD+2 moreResearch', 'href': '/careers/jobs/714487255776673/'}
+{'name': 'Core Data Science Intern, Optimization Research (PhD)Menlo Park, CA +2 moreInternship - PhD+2 moreResearch', 'href': '/careers/jobs/647853736139979/'}
+{'name': 'Technical Program Manager, Ads Measurements Bellevue, WA +3 moreTechnical Program ManagementEngineering+1 more', 'href': '/careers/jobs/363093118424803/'}
+{'name': 'Responsible Innovation Manager, Professional ResponsibilityMenlo Park, CACommunications & Public PolicyPublic Policy', 'href': '/careers/jobs/2537073536607922/'}
