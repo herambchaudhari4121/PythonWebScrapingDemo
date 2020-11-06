@@ -1,6 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 
+def get_jobs():
+    return get_job_listing('https://www.facebook.com/careers/jobs/')
+
 def get_job_listing(url):
     req = requests.get(url)
 
@@ -14,5 +17,7 @@ def get_job_listing(url):
         job_details['name'] = link.text
         job_details['href'] = link['href']
         print(job_details)
+
+    return job_details
 
 get_job_listing('https://www.facebook.com/careers/jobs/')
