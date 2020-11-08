@@ -38,8 +38,8 @@ def extract_qualification(url):
     qualification = dict()
     qualification['minimum'] = []
     qualification['preferred'] = []
-    extract_qualification_details(soup, '_1n-_ _6hy- _8lf-', qualification, 'minimum', 'Minimum Qualifications')
-    extract_qualification_details(soup, '_1n-_ _6hy- _8lf-', qualification, 'preferred', 'Preferred Qualifications')
+    extract_qualification(soup, '_1n-_ _6hy- _8lf-', qualification, 'minimum', 'Minimum Qualifications')
+    extract_qualification(soup, '_1n-_ _6hy- _8lf-', qualification, 'preferred', 'Preferred Qualifications')
     print(qualification)
 
     return qualification
@@ -51,7 +51,7 @@ def extract_qualification_details(soup, css_class, qualification, qualification_
     min_qual_list = soup.find(text=re.compile(qual_type_description)).parent.parent.findAll('div', {'class' : css_class})
 
     for min_qual in min_qual_list:
-        qualification[qualification_type].append(min_qual.text)
+        qualification[qualification_type].append(min_qual)
 
 
 #get_jobs()
