@@ -29,7 +29,7 @@ def get_job_listing(url):
     return job_list
 
 
-# For the POC emo purposes, I am hardcoding the home base URL
+# For the POC demo purposes, I am hardcoding the home base URL
 def make_full_facebook_job_url(url):
     return 'https://www.facebook.com' + url;
 
