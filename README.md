@@ -81,7 +81,7 @@ python webscraper_demo.py
 {'name': 'Manager, Software Engineering, CompilersMenlo Park, CAInfrastructureEngineering', 'href': '/careers/jobs/1147169172318394/'}
 ```
 
-The extraction of minimum and preferred qualification output from a single URL would look like:
+The extraction of minimum and preferred qualification output from a single URL(`'/careers/jobs/2537073536607922/'`) would look like:
 
 ```
 { 'minimum': [ '8+ years of experience in organizational design, change '
