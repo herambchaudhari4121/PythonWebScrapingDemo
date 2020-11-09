@@ -81,8 +81,38 @@ python webscraper_demo.py
 {'name': 'Manager, Software Engineering, CompilersMenlo Park, CAInfrastructureEngineering', 'href': '/careers/jobs/1147169172318394/'}
 ```
 
-# Still to work on
+The extraction of minimum and preferred qualification output from a single URL would look like:
 
-- Iterate through the subsequent link
-- Capture the _Minimum Qualifications_
-- Capture the _Preferred Qualifications_
+```
+{ 'minimum': [ '8+ years of experience in organizational design, change '
+               'management, leadership and development, or other relevant '
+               'fields',
+               'Experience developing rewards and incentives and leading '
+               'culture change initiatives',
+               'Experience working inside fast-moving companies/organizations',
+               'Proven experience working collaboratively across a wide '
+               'variety of functions to drive effective outcomes',
+               'Communication skills and project management experience',
+               'Experience with consensus-building',
+               'Experience operating independently and execute flawlessly on '
+               'both the strategic and operational level',
+               'Experience working on a new team with ambiguity and changing '
+               'responsibilities',
+               'BA/BS Degree'],
+  'preferred': [ 'Advanced degree preferred',
+                 'Experience or expertise understanding the impacts of '
+                 'technology',
+                 'Working with technical and product teams',
+                 'Experience representing companies externally and internally '
+                 'at the executive level',
+                 'Experience working in a globally matrixed organization '
+                 'preferably in Technology',
+                 'Experience working with a broad array of teams to implement '
+                 'success metrics',
+                 'Experience building a program from inception to '
+                 'implementation']}
+```
+
+# Room for improvement
+
+- catch connection errors such as MaxRetryErrors, Failure to Connect etc.
