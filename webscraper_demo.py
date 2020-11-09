@@ -42,8 +42,16 @@ def extract_qualification(url):
     qualification = dict()
     qualification['minimum'] = []
     qualification['preferred'] = []
-    extract_qualification_details(soup, '_1n-_ _6hy- _8lf-', qualification, 'minimum', 'Minimum Qualifications')
-    extract_qualification_details(soup, '_1n-_ _6hy- _8lf-', qualification, 'preferred', 'Preferred Qualifications')
+    extract_qualification_details(soup,
+                                    css_class='_1n-_ _6hy- _8lf-',
+                                    qualification=qualification,
+                                    qualification_type='minimum',
+                                    qual_type_description='Minimum Qualifications')
+    extract_qualification_details(soup,
+                                    css_class='_1n-_ _6hy- _8lf-',
+                                    qualification=qualification,
+                                    qualification_type='preferred',
+                                    qual_type_description='Preferred Qualifications')
     pp.pprint(qualification)
 
     return qualification
